@@ -6,7 +6,7 @@
     $ref = $ref[0].'://';
     $url = $ref.$_SERVER['HTTP_HOST'].'/views/';  
 */
-$url = 'http://localhost/Controle-de-Estoque-em-PHP/views/'; // Remova em caso de utilizar o código para hospedagem web 
+$url = 'http://localhost/estoquePHP/views/'; // Remova em caso de utilizar o código para hospedagem web 
 
 $head = '<!DOCTYPE html>
 <html>
